@@ -23,6 +23,7 @@ RegisterNumber: 22009090
 ```
 
 ## Output:
+![gcd](./gcd.PNG) 
 ![output](./GCD%20of%20two%20values.png)
 
 ## Result:
